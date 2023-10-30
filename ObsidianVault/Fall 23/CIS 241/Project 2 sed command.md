@@ -1,0 +1,1 @@
+sed -E -i -f script.sed marvel-small-edit.csv
