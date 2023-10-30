@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "ad5ca313d2306ee2",
+    "type": "split",
+    "children": [
+      {
+        "id": "501542554f5059f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dfd53599be252a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Project 3 Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e26bfc1cd4dd68ef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
+            "id": "5a5b36b50085b046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6feb53dfeb2e991",
+    "type": "split",
+    "children": [
+      {
+        "id": "71874a4636d338f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fc4d61453c7d0a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6980864d37cba687",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ba037dd0d802d5c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7536e1a4db44554",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "f5cb19b39418515d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6ff30f4a5fbe9fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37fea0b95c827cd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62e6f7089ec9f09f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9fef938f5a867df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f33e7b24fecea110",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "2ffba83834f99117",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5a5b36b50085b046",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Notes/silly game.md",
+    "Notes/Project 3 Ideas.md",
+    "Notes/GV Clubs.md",
+    "Notes/Speech Lecture Notes.md",
+    "Journals/2023/March 14.md",
+    "Journals/2022/November 2022/Nov 28.md",
+    "Journals/2022/October 2022/Oct. 31.md",
+    "Untitled 1.md",
+    "sneating lore.md",
+    "Informative Speech/Speech Outline.md",
+    "Informative Speech/Informative Speech - Slides.md",
+    "Informative Speech/Research notes.md",
+    "Notes/Super Bowl Speech.md",
+    "Notes/3-20-22 Myth Lecture - Oddessy.md",
+    "Journals/2022/November 2022/Nov. 1.md",
+    "D2 TODO.md",
+    "2023-07-16.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Game Ideas/SpaceTD Game/Space TD Game.canvas",
+    "Notes/aminsa.md",
+    "Notes/idle game list 19.md",
+    "Game Ideas/SpaceTD Game/Looks/Looks.md",
+    "Notes/Intro speech.md",
+    "Notes/whiteman.jpg",
+    "Notes/Project 2 layout.md",
+    "Journals/2023",
+    "Journals/2022",
+    "Game Ideas/SpaceTD Game/Story/Story.md",
+    "Game Ideas/SpaceTD Game/Gameplay/Gameplay.md"
+  ]
+}

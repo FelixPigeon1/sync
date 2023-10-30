@@ -1,0 +1,11 @@
+It was a pretty boring halloween for me, I didn't get a chance to wear my onesie at all sadly. Oh well, next year will be better.
+
+Today has been alright so far, my writing class got out 20 minutes early so that's pretty awesome. I got "breakfast" after at dish and got ketchup on my white gv hoodie. It was about time to wash it anyway so whatever. Not having a key is already starting to get a little bit annoying. I tried to go back to the dorm and surprise surprise miles is gone! I can make do though, I had my chargers with me so that's all I really need. I'm writing this in the library right now, just killing time till 2 for my first group councilling meeting. 
+
+I'm not really sure what to expect from this, I figured I would give it a shot and see how it is. It's probably going to be pretty emotional and hard to talk but hey, I did it before at the reaching higher thing in high school so maybe this wont be so bad. God I just remebered how one of the leaders of that compared me to fucking simba. Horrible.
+
+I'm glad my stats professor was easygoing with letting me go to a different class so I don't miss any content. She said I should go at 6:45 but ill probably go at 6 so I can catch up on content that I missed last week from being sick. I still have to watch the videos for class, I plan to get that done after the group meeting today. 
+
+I'm not sure what the best way to meet people is, the people in the esports club seemed pretty chill but I was too shy to really say much, and miles was talking about shit in the background so I had to stay muted for a decent amount. I don't know I just kinda freeze up when I'm with people I don't know, especially when its a large group of people I just feel like im there and nothing else, im just existing with them. I still wish I knew that one girl with the miku pants, at this point I'm forgetting what her face looks like so I'll probably never see her again, same with that suzie girl miles and I met at kliner (im not spelling that correctly and I simply do not care) 
+
+Well im kinda bored typing right now, I plan to come back to this when im done with the meeting at 2.

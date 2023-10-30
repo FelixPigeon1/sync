@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f7e5e31cdf00a0e2","x":-643,"y":81,"width":400,"height":400,"type":"file","file":"Game Ideas/SpaceTD Game/Gameplay/Flow/Flow 1.md"},
+		{"id":"70666afe8b6ca1ff","x":-568,"y":-499,"width":250,"height":60,"color":"1","type":"text","text":"Gameplay"},
+		{"id":"794181df5d6ced99","x":-628,"y":-325,"width":370,"height":284,"type":"file","file":"Game Ideas/SpaceTD Game/Gameplay/Gameplay.md"},
+		{"id":"090a994e42cbddba","x":16,"y":-499,"width":250,"height":60,"color":"4","type":"text","text":"Story"},
+		{"id":"dab80de79fef83e4","x":-18,"y":-325,"width":400,"height":400,"type":"file","file":"Game Ideas/SpaceTD Game/Story/Story.md"},
+		{"id":"12eb371a4d0515bc","x":762,"y":-469,"width":250,"height":60,"color":"5","type":"text","text":"Looks"},
+		{"id":"4fe47cd00411528e","x":687,"y":-325,"width":400,"height":400,"type":"file","file":"Game Ideas/SpaceTD Game/Looks/Looks.md"}
+	],
+	"edges":[
+		{"id":"36dfbcc2f680558c","fromNode":"70666afe8b6ca1ff","fromSide":"bottom","toNode":"794181df5d6ced99","toSide":"top"},
+		{"id":"e8678141456cca04","fromNode":"794181df5d6ced99","fromSide":"bottom","toNode":"f7e5e31cdf00a0e2","toSide":"top"},
+		{"id":"2ec665465c6e50f7","fromNode":"090a994e42cbddba","fromSide":"bottom","toNode":"dab80de79fef83e4","toSide":"top"},
+		{"id":"714243c4695d0af0","fromNode":"12eb371a4d0515bc","fromSide":"bottom","toNode":"4fe47cd00411528e","toSide":"top"}
+	]
+}

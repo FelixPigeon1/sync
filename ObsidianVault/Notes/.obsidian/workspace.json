@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "f133a354ba68c0f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3755bb5b23902439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9604055a10a307da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project 3 Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad24899aa9399f59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goodwill App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64d46ab844cc5d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goodwill App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6522519c713a4ed5",
+    "type": "split",
+    "children": [
+      {
+        "id": "23a99f42b629e9db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a44e7e3b204861ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcde93f7cddf0b5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc0b5b6a25f898b7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5880a7d0d2caf34",
+    "type": "split",
+    "children": [
+      {
+        "id": "2170831de6607448",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e52392bcb5bc748",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Goodwill App.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fa6d12728f907b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Goodwill App.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e141509712a33d81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54783dceebdfbf9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Goodwill App.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "64d46ab844cc5d4e",
+  "lastOpenFiles": [
+    "Project 3 Ideas.md",
+    "Stats problem guide.md",
+    "whiteman.jpg",
+    "silly game.md",
+    "Goodwill App.md"
+  ]
+}
