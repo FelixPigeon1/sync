@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d23f9d3fd4dac05d",
+            "id": "6cbe9d75a4aa35ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall 23/CIS 241/Project 2 sed command.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6700b1b548a7a22b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall 23/CIS 241/Project 2 sed command.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44487fce3e8fb049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall 23/CIS 241/sed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b6de0ad268b8362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall 23/CIS 350/Eithics.md",
+                "file": "Daily Notes/2023-11-03.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 284.5
   },
   "right": {
     "id": "f5cb19b39418515d",
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall 23/CIS 350/Eithics.md",
+                "file": "Daily Notes/2023-11-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall 23/CIS 350/Eithics.md",
+                "file": "Daily Notes/2023-11-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,27 +133,44 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall 23/CIS 350/Eithics.md"
+                "file": "Daily Notes/2023-11-03.md"
               }
             }
           },
           {
-            "id": "2ffba83834f99117",
+            "id": "cb00391467f70ec0",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "3f475bd76e62679f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a00e121ac6b91321",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,21 +179,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fc4d61453c7d0a1",
+  "active": "a00e121ac6b91321",
   "lastOpenFiles": [
-    "Fall 23/CIS 241/sed.md",
-    "Fall 23/CIS 350/Eithics.md",
-    "Fall 23/CIS 241/Project 2 sed command.md",
-    "Fall 23/CIS 241/C Pointers.md",
-    "Fall 23/HSC 202/History lab 5.md",
-    "Fall 23/CIS 241",
-    "Fall 23/HSC 202",
+    "Untitled.md",
+    "Daily Notes/2023-11-03.md",
+    "Untitled",
+    "Notes/Game Ideas/SpaceTD Game/Space TD Game.canvas",
+    "GVSU/22-23/Project 2 layout.md",
+    "GVSU/22-23",
+    "GVSU",
+    "GVSU/Fall 23/CIS 241/C Pointers.md",
+    "Daily Notes",
+    "GVSU/Fall 23/HSC 202/History Lab 7.md",
+    "2023-W44.md",
+    "GVSU/Fall 23/CIS 350/Checkpoint 2 notes.md",
+    "GVSU/Fall 23/CIS 241/Project 2 sed command.md",
+    "GVSU/Fall 23/CIS 241/sed.md",
+    "GVSU/Fall 23/CIS 241/Test 2 Notes.md",
+    "GVSU/Fall 23/CIS 350/Eithics.md",
+    "GVSU/Fall 23/HSC 202/History lab 5.md",
+    "GVSU/Fall 23/CIS 241",
+    "GVSU/Fall 23/HSC 202",
     "Notes/Consumers Energy.md",
-    "Notes/Project 3 Ideas.md",
-    "Fall 23/PHO 170/Full Stops.md",
+    "GVSU/22-23/Project 3 Ideas.md",
+    "GVSU/Fall 23/PHO 170/Full Stops.md",
     "Notes/silly game.md",
-    "Notes/GV Clubs.md",
-    "Notes/Speech Lecture Notes.md",
+    "GVSU/GV Clubs.md",
+    "GVSU/22-23/Speech Lecture Notes.md",
     "Journals/2023/March 14.md",
     "Journals/2022/November 2022/Nov 28.md",
     "Journals/2022/October 2022/Oct. 31.md",
@@ -221,17 +213,9 @@
     "Informative Speech/Speech Outline.md",
     "Informative Speech/Informative Speech - Slides.md",
     "Informative Speech/Research notes.md",
-    "Notes/Super Bowl Speech.md",
-    "Notes/3-20-22 Myth Lecture - Oddessy.md",
-    "Journals/2022/November 2022/Nov. 1.md",
-    "D2 TODO.md",
-    "2023-07-16.md",
+    "GVSU/22-23/Super Bowl Speech.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Game Ideas/SpaceTD Game/Space TD Game.canvas",
-    "Notes/aminsa.md",
-    "Notes/idle game list 19.md",
-    "Game Ideas/SpaceTD Game/Looks/Looks.md",
     "Notes/whiteman.jpg",
     "Journals/2023",
     "Journals/2022"
