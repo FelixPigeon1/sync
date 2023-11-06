@@ -1,4 +1,5 @@
 `%` = memory address
+```&``` = pointer address
 
 
 ```c
