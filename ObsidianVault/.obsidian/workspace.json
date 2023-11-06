@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "a7c2c0b99cca5aed",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7d88fb79a1faefe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GVSU/22-23/Speech Lecture Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 200
   },
   "right": {
     "id": "f5cb19b39418515d",
@@ -184,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +181,10 @@
   },
   "active": "d8d351ded1cca208",
   "lastOpenFiles": [
-    "GVSU/22-23/Speech Lecture Notes.md",
+    "History Lab 8 - Green Revolution.md",
+    "Green Revolution Notes.md",
     "GVSU/Fall 23/PHO 170/Photographer Presentation.md",
+    "GVSU/22-23/Speech Lecture Notes.md",
     "GVSU/Fall 23/PHO 170/Quiz 2-Lenses.md",
     "Notes/youtube-dl commands.md",
     "Daily Notes/2023-11-03.md",
@@ -230,8 +214,6 @@
     "Journals/2022/November 2022/Nov 28.md",
     "Journals/2022/October 2022/Oct. 31.md",
     "sneating lore.md",
-    "Informative Speech/Speech Outline.md",
-    "Informative Speech/Informative Speech - Slides.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Notes/whiteman.jpg",
