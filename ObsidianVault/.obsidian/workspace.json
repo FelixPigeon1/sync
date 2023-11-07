@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GVSU/Fall 23/CIS 241/C/Functions.md",
+                "file": "GVSU/Fall 23/PHO 170/Photographer Presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GVSU/Fall 23/CIS 241/C/Functions.md",
+                "file": "GVSU/Fall 23/PHO 170/Photographer Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GVSU/Fall 23/CIS 241/C/Functions.md",
+                "file": "GVSU/Fall 23/PHO 170/Photographer Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GVSU/Fall 23/CIS 241/C/Functions.md"
+                "file": "GVSU/Fall 23/PHO 170/Photographer Presentation.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "55177ed07cda9294",
   "lastOpenFiles": [
-    "GVSU/Fall 23/CIS 241/C/Reading Input.md",
     "GVSU/Fall 23/CIS 241/C/Functions.md",
+    "GVSU/Fall 23/CIS 241/C/Reading Input.md",
     "GVSU/Fall 23/CIS 241/C/Pointers.md",
     "GVSU/Fall 23/PHO 170/Photographer Presentation.md",
     "GVSU/Fall 23/CIS 241/C",
