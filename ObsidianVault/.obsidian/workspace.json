@@ -24,11 +24,10 @@
             "id": "c055397ccce181ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "GVSU/Fall 23/CIS 241/Test 2 Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "ObsidianVault/GVSU/Fall 23/CIS 241/Test 2 Notes.md",
+                "staged": true
               }
             }
           }
@@ -126,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GVSU/Fall 23/CIS 241/Test 2 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GVSU/Fall 23/CIS 241/Test 2 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GVSU/Fall 23/CIS 241/Test 2 Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -214,6 +209,7 @@
   },
   "active": "c055397ccce181ea",
   "lastOpenFiles": [
+    "GVSU/Fall 23/CIS 241/Test 2 Notes.md",
     "GVSU/Fall 23/HSC 202/History Lab 8 - Green Revolution.md",
     "GVSU/Fall 23/PHO 170/Photographer Presentation.md",
     "GVSU/Fall 23/HSC 202/Green Revolution Notes.md",
@@ -238,7 +234,6 @@
     "GVSU/Fall 23/HSC 202/History Lab 7.md",
     "2023-W44.md",
     "GVSU/Fall 23/CIS 350/Checkpoint 2 notes.md",
-    "GVSU/Fall 23/CIS 241/Test 2 Notes.md",
     "GVSU/Fall 23/CIS 350/Eithics.md",
     "GVSU/Fall 23/HSC 202/History lab 5.md",
     "GVSU/Fall 23/CIS 241",
