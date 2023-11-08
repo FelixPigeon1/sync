@@ -6,6 +6,7 @@
       {
         "id": "501542554f5059f1",
         "type": "tabs",
+        "dimension": 61.68582375478927,
         "children": [
           {
             "id": "d8d351ded1cca208",
@@ -13,19 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GVSU/Fall 23/CIS 241/C/Reading Input.md",
+                "file": "GVSU/Fall 23/PHO 170/Photographer Presentation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "55177ed07cda9294",
+            "id": "c055397ccce181ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GVSU/Fall 23/CIS 241/C/Functions.md",
+                "file": "GVSU/Fall 23/HSC 202/History Lab 8 - Green Revolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +34,25 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "a7c2c0b99cca5aed",
+        "type": "tabs",
+        "dimension": 38.31417624521073,
+        "children": [
+          {
+            "id": "7d88fb79a1faefe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GVSU/22-23/Speech Lecture Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GVSU/Fall 23/CIS 241/C/Functions.md",
+                "file": "GVSU/Fall 23/HSC 202/History Lab 8 - Green Revolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GVSU/Fall 23/CIS 241/C/Functions.md",
+                "file": "GVSU/Fall 23/HSC 202/History Lab 8 - Green Revolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GVSU/Fall 23/CIS 241/C/Functions.md"
+                "file": "GVSU/Fall 23/HSC 202/History Lab 8 - Green Revolution.md"
               }
             }
           },
@@ -179,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 216.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,15 +212,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55177ed07cda9294",
+  "active": "c055397ccce181ea",
   "lastOpenFiles": [
-    "GVSU/Fall 23/CIS 241/C/Reading Input.md",
-    "GVSU/Fall 23/CIS 241/C/Functions.md",
-    "GVSU/Fall 23/CIS 241/C/Pointers.md",
     "GVSU/Fall 23/PHO 170/Photographer Presentation.md",
-    "GVSU/Fall 23/CIS 241/C",
     "GVSU/Fall 23/HSC 202/History Lab 8 - Green Revolution.md",
     "GVSU/Fall 23/HSC 202/Green Revolution Notes.md",
+    "Checkpoint study.md",
+    "GVSU/Fall 23/CIS 241/sed.md",
+    "GVSU/Fall 23/CIS 241/Project 2 sed command.md",
+    "GVSU/Fall 23/CIS 241/C/Reading Input.md",
+    "GVSU/Fall 23/CIS 241/C/Pointers.md",
+    "GVSU/Fall 23/CIS 241/C/Functions.md",
+    "GVSU/Fall 23/CIS 241/C",
     "GVSU/22-23/Speech Lecture Notes.md",
     "GVSU/Fall 23/PHO 170/Quiz 2-Lenses.md",
     "Notes/youtube-dl commands.md",
@@ -210,12 +233,11 @@
     "GVSU/22-23/Project 2 layout.md",
     "GVSU/22-23",
     "GVSU",
+    "GVSU/Fall 23/CIS 241/C Pointers.md",
     "Daily Notes",
     "GVSU/Fall 23/HSC 202/History Lab 7.md",
     "2023-W44.md",
     "GVSU/Fall 23/CIS 350/Checkpoint 2 notes.md",
-    "GVSU/Fall 23/CIS 241/Project 2 sed command.md",
-    "GVSU/Fall 23/CIS 241/sed.md",
     "GVSU/Fall 23/CIS 241/Test 2 Notes.md",
     "GVSU/Fall 23/CIS 350/Eithics.md",
     "GVSU/Fall 23/HSC 202/History lab 5.md",
@@ -226,8 +248,6 @@
     "GVSU/Fall 23/PHO 170/Full Stops.md",
     "Notes/silly game.md",
     "GVSU/GV Clubs.md",
-    "Journals/2023/March 14.md",
-    "Journals/2022/November 2022/Nov 28.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Notes/whiteman.jpg",
