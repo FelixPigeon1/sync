@@ -4,48 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "501542554f5059f1",
+        "id": "0a27885cc2f6b493",
         "type": "tabs",
-        "dimension": 61.68582375478927,
         "children": [
           {
-            "id": "d8d351ded1cca208",
+            "id": "b19082e36396ab87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GVSU/Fall 23/PHO 170/Photographer Presentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c055397ccce181ea",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "ObsidianVault/GVSU/Fall 23/CIS 241/Test 2 Notes.md",
-                "staged": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a7c2c0b99cca5aed",
-        "type": "tabs",
-        "dimension": 38.31417624521073,
-        "children": [
-          {
-            "id": "7d88fb79a1faefe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GVSU/22-23/Speech Lecture Notes.md",
+                "file": "GVSU/Fall 23/CIS 241/C/Reading Input.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GVSU/Fall 23/CIS 241/C/Reading Input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GVSU/Fall 23/CIS 241/C/Reading Input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GVSU/Fall 23/CIS 241/C/Reading Input.md"
+              }
             }
           },
           {
@@ -207,42 +179,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c055397ccce181ea",
+  "active": "b19082e36396ab87",
   "lastOpenFiles": [
-    "GVSU/Fall 23/CIS 241/Test 2 Notes.md",
-    "GVSU/Fall 23/HSC 202/History Lab 8 - Green Revolution.md",
-    "GVSU/Fall 23/PHO 170/Photographer Presentation.md",
+    "GVSU/Fall 23/CIS 241/C/Functions.md",
+    "GVSU/Fall 23/CIS 241/C/Pointers.md",
+    "GVSU/Fall 23/CIS 241/C/Reading Input.md",
+    "GVSU/Fall 23/HSC 202/Test 2 notes.md",
     "GVSU/Fall 23/HSC 202/Green Revolution Notes.md",
+    "GVSU/Fall 23/HSC 202/History Lab 8 - Green Revolution.md",
+    "GVSU/Fall 23/HSC 202/History lab 5.md",
+    "GVSU/Fall 23/HSC 202/History Lab 7.md",
+    "GVSU/22-23/Speech Lecture Notes.md",
+    "GVSU/Fall 23/PHO 170/Photographer Presentation.md",
     "Checkpoint study.md",
+    "rorr item pickup text.md",
+    "Untitled",
+    "GVSU/Fall 23/CIS 241/Test 2 Notes.md",
     "GVSU/Fall 23/CIS 241/sed.md",
     "GVSU/Fall 23/CIS 241/Project 2 sed command.md",
-    "GVSU/Fall 23/CIS 241/C/Reading Input.md",
-    "GVSU/Fall 23/CIS 241/C/Pointers.md",
-    "GVSU/Fall 23/CIS 241/C/Functions.md",
     "GVSU/Fall 23/CIS 241/C",
-    "GVSU/22-23/Speech Lecture Notes.md",
     "GVSU/Fall 23/PHO 170/Quiz 2-Lenses.md",
     "Notes/youtube-dl commands.md",
     "Daily Notes/2023-11-03.md",
-    "Untitled",
     "Notes/Game Ideas/SpaceTD Game/Space TD Game.canvas",
     "GVSU/22-23/Project 2 layout.md",
     "GVSU/22-23",
     "GVSU",
     "GVSU/Fall 23/CIS 241/C Pointers.md",
     "Daily Notes",
-    "GVSU/Fall 23/HSC 202/History Lab 7.md",
     "2023-W44.md",
     "GVSU/Fall 23/CIS 350/Checkpoint 2 notes.md",
     "GVSU/Fall 23/CIS 350/Eithics.md",
-    "GVSU/Fall 23/HSC 202/History lab 5.md",
     "GVSU/Fall 23/CIS 241",
     "GVSU/Fall 23/HSC 202",
     "Notes/Consumers Energy.md",
     "GVSU/22-23/Project 3 Ideas.md",
     "GVSU/Fall 23/PHO 170/Full Stops.md",
-    "Notes/silly game.md",
-    "GVSU/GV Clubs.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Notes/whiteman.jpg",
