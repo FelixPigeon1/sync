@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3ceda6657a078b24",
+        "id": "0a27885cc2f6b493",
         "type": "tabs",
         "children": [
           {
-            "id": "ac17fa4205c574d9",
+            "id": "b19082e36396ab87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-11-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da2fe7b185e3f12b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The List.md",
+                "file": "GVSU/Fall 23/CIS 350/Eithics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The List.md",
+                "file": "GVSU/Fall 23/CIS 350/Eithics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The List.md",
+                "file": "GVSU/Fall 23/CIS 350/Eithics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The List.md"
+                "file": "GVSU/Fall 23/CIS 350/Eithics.md"
               }
             }
           },
@@ -179,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 216.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,21 +179,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da2fe7b185e3f12b",
+  "active": "a00e121ac6b91321",
   "lastOpenFiles": [
-    "Daily Notes/2023-11-03.md",
     "The List.md",
-    "Ipad/WWII.md",
-    "GVSU/Fall 23/MTH 225",
-    "Ipad/Cold War Technology.md",
-    "Ipad/Whig history.md",
-    "Ipad/McDonalds.md",
     "Ipad/machine age/Materials for Modernism.md",
     "Ipad/machine age/Manifestos of Modernity.md",
     "Ipad/machine age/Ironies of Modernism.md",
     "Ipad/Early Modern/The Bicycle.md",
-    "Ipad/Early Modern/Leonardo.md",
     "Ipad/Early Modern/Lanterns.md",
+    "Ipad/Early Modern/Leonardo.md",
     "Ipad/Early Modern/Early Modern Technology.md",
     "Ipad/Early Modern/Automata.md",
     "Ipad/2nd industrial rev/Engineering education.md",
@@ -214,18 +195,24 @@
     "Ipad/2nd industrial rev/Chemical Industry.md",
     "Ipad/2nd industrial rev/2nd Industrial Revolution.md",
     "Ipad/2nd industrial rev/2nd Industrial Revolution 1.md",
-    "Ipad/1st industrial rev/Opium and Steam.md",
     "Ipad/1st industrial rev/The Telegraph and the Railroad.md",
+    "Ipad/1st industrial rev/Opium and Steam.md",
     "Ipad/1st industrial rev/Industrial revolution.md",
     "Ipad/1st industrial rev/Colonialism.md",
     "Ipad/1st industrial rev/1st Industrial Revolution.md",
-    "Ipad/machine age",
     "Ipad/WWI.md",
+    "Ipad/WWII.md",
+    "Ipad/Whig history.md",
     "Ipad/Technology in War.md",
+    "Ipad/Social Construction of Technology.md",
+    "Ipad/McDonalds.md",
+    "Ipad/machine age",
+    "Ipad/Last Friday Notes.md",
     "Ipad/Early Modern",
     "Ipad/2nd industrial rev",
     "Ipad/1st industrial rev",
     "Ipad",
+    "Untitled",
     "GVSU/Fall 23/CIS 241/C",
     "Notes/Game Ideas/SpaceTD Game/Space TD Game.canvas",
     "GVSU/22-23",
