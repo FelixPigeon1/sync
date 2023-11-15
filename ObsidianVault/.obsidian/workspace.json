@@ -11,14 +11,28 @@
             "id": "ac17fa4205c574d9",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "ObsidianVault/.obsidian/workspace.json",
-                "staged": false
+                "file": "Daily Notes/2023-11-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da2fe7b185e3f12b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The List.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The List.md"
+              }
             }
           },
           {
@@ -174,8 +192,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a00e121ac6b91321",
+  "active": "da2fe7b185e3f12b",
   "lastOpenFiles": [
+    "Daily Notes/2023-11-03.md",
+    "The List.md",
+    "Ipad/WWII.md",
+    "GVSU/Fall 23/MTH 225",
+    "Ipad/Cold War Technology.md",
+    "Ipad/Whig history.md",
+    "Ipad/McDonalds.md",
     "Ipad/machine age/Materials for Modernism.md",
     "Ipad/machine age/Manifestos of Modernity.md",
     "Ipad/machine age/Ironies of Modernism.md",
@@ -195,20 +220,13 @@
     "Ipad/1st industrial rev/Colonialism.md",
     "Ipad/1st industrial rev/1st Industrial Revolution.md",
     "Ipad/machine age",
-    "Ipad/Whig history.md",
-    "Ipad/WWII.md",
     "Ipad/WWI.md",
     "Ipad/Technology in War.md",
-    "Ipad/Social Construction of Technology.md",
-    "Ipad/McDonalds.md",
-    "Ipad/Last Friday Notes.md",
     "Ipad/Early Modern",
-    "Ipad/Computer Revolution.md",
     "Ipad/2nd industrial rev",
     "Ipad/1st industrial rev",
     "Ipad",
     "GVSU/Fall 23/CIS 241/C",
-    "Untitled",
     "Notes/Game Ideas/SpaceTD Game/Space TD Game.canvas",
     "GVSU/22-23",
     "GVSU",
