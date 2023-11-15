@@ -12,9 +12,9 @@ char 0 = filetype
 chars 1-9 = file perms
 (-)(---)(---)(---)
 file type - owner - group - everyone
-r = read
-w = write
-x = execute
+r = read 4
+w = write 2
+x = execute 1
 o = others
 g = group
 u = user (you)
