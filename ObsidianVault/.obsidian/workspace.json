@@ -4,22 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "0a27885cc2f6b493",
+        "id": "17de4c5cfb90c38a",
         "type": "tabs",
         "children": [
           {
-            "id": "b19082e36396ab87",
+            "id": "a6d6ef4f9220a1c9",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "ObsidianVault/The List.md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "8efccf28c9f66c33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GVSU/Fall 23/CIS 350/Eithics.md",
+                "file": "Proof Framework Practice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GVSU/Fall 23/CIS 350/Eithics.md",
+                "file": "Proof Framework Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GVSU/Fall 23/CIS 350/Eithics.md",
+                "file": "Proof Framework Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GVSU/Fall 23/CIS 350/Eithics.md"
+                "file": "Proof Framework Practice.md"
               }
             }
           },
@@ -166,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,40 +191,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a00e121ac6b91321",
+  "active": "8efccf28c9f66c33",
   "lastOpenFiles": [
     "The List.md",
+    "Proof Framework Practice.md",
+    "2023-11-12.md",
+    "GVSU/Fall 23/CIS 350/Checkpoint 2 notes.md",
+    "GVSU/Fall 23/CIS 350/Checkpoint 3 notes.md",
+    "GVSU/Fall 23/CIS 350/Code review.md",
+    "GVSU/Fall 23/PHO 170/Photographer Presentation.md",
+    "Daily Notes/2023-11-03.md",
+    "GVSU/Fall 23/CIS 350/CIS 350 Project steps.md",
+    "GVSU/Fall 23/HSC 202/Science & Economics.md",
+    "GVSU/Fall 23/CIS 241/C/Pointers.md",
+    "Ipad/WWII.md",
+    "GVSU/Fall 23/MTH 225",
+    "Ipad/Cold War Technology.md",
+    "Ipad/Whig history.md",
+    "Ipad/McDonalds.md",
     "Ipad/machine age/Materials for Modernism.md",
     "Ipad/machine age/Manifestos of Modernity.md",
     "Ipad/machine age/Ironies of Modernism.md",
     "Ipad/Early Modern/The Bicycle.md",
-    "Ipad/Early Modern/Lanterns.md",
     "Ipad/Early Modern/Leonardo.md",
+    "Ipad/Early Modern/Lanterns.md",
     "Ipad/Early Modern/Early Modern Technology.md",
     "Ipad/Early Modern/Automata.md",
     "Ipad/2nd industrial rev/Engineering education.md",
     "Ipad/2nd industrial rev/Electricity.md",
     "Ipad/2nd industrial rev/Chemical Industry.md",
-    "Ipad/2nd industrial rev/2nd Industrial Revolution.md",
-    "Ipad/2nd industrial rev/2nd Industrial Revolution 1.md",
-    "Ipad/1st industrial rev/The Telegraph and the Railroad.md",
-    "Ipad/1st industrial rev/Opium and Steam.md",
-    "Ipad/1st industrial rev/Industrial revolution.md",
-    "Ipad/1st industrial rev/Colonialism.md",
-    "Ipad/1st industrial rev/1st Industrial Revolution.md",
-    "Ipad/WWI.md",
-    "Ipad/WWII.md",
-    "Ipad/Whig history.md",
-    "Ipad/Technology in War.md",
-    "Ipad/Social Construction of Technology.md",
-    "Ipad/McDonalds.md",
     "Ipad/machine age",
-    "Ipad/Last Friday Notes.md",
     "Ipad/Early Modern",
     "Ipad/2nd industrial rev",
     "Ipad/1st industrial rev",
     "Ipad",
-    "Untitled",
     "GVSU/Fall 23/CIS 241/C",
     "Notes/Game Ideas/SpaceTD Game/Space TD Game.canvas",
     "GVSU/22-23",
