@@ -24,14 +24,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proof Framework Practice.md",
+                "file": "The List.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b67869e53dab03b",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "ObsidianVault/The List.md",
+                "staged": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proof Framework Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proof Framework Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Proof Framework Practice.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,9 +198,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8efccf28c9f66c33",
+  "active": "a00e121ac6b91321",
   "lastOpenFiles": [
     "The List.md",
+    "GVSU/Fall 23/HSC 202/Summary of technological  history.md",
     "Proof Framework Practice.md",
     "2023-11-12.md",
     "GVSU/Fall 23/CIS 350/Checkpoint 2 notes.md",
@@ -219,7 +227,6 @@
     "Ipad/Early Modern/Automata.md",
     "Ipad/2nd industrial rev/Engineering education.md",
     "Ipad/2nd industrial rev/Electricity.md",
-    "Ipad/2nd industrial rev/Chemical Industry.md",
     "Ipad/machine age",
     "Ipad/Early Modern",
     "Ipad/2nd industrial rev",
